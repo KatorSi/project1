@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings />
+      <phpunit_by_interpreter interpreter_id="68b6b439-d90e-4a71-8afb-7465360ddfa8" interpreter_name="Remote PHP 5.3" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/project1/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+{
+    "name": "root/project1",
+    "description": "test project",
+    "authors": [
+        {
+            "name": "Yurii Senin",
+            "email": "katorsi@mail.ru"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+	"phpunit/phpunit": "4.8.*"
+    }
+}
